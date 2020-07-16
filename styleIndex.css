@@ -1,0 +1,35 @@
+body {
+  background-color: #c58ef5;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Sigmar One', cursive;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Dosis";
+}
+
+p {
+  /*font-family: "Pangolin", cursive;*/
+  font-family: "Patrick Hand", cursive;
+  font-size: 120%;
+}
+
+ul {
+  font-family: "Patrick Hand", cursive;
+  font-size: 100%;
+}
+
+table{
+  font-family: "Patrick Hand", cursive;
+}
+
+th{
+  font-size: 100%;
+}
+tr{
+  font-size: 100%
+}
