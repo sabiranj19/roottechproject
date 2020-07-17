@@ -1,1 +1,22 @@
+background {
+  background-color: #5fb2ed;
+}
 
+h1 {
+  text-align: center;
+  font-family: "Merienda One", cursive;
+  background-color: #fc729e;
+}
+
+table{
+  font-size: 110%;
+  font-family: 'Sahitya', serif;
+  /*background-color: #e69319;*/
+}
+
+p{
+  font-size: 200%;
+  font-family: 'Dosis', serif;
+  padding-left: 100px;
+  padding-right: 100px;
+}
