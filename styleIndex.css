@@ -1,35 +1,16 @@
-body {
-  background-color: #c58ef5;
+background {
+  background-color: #5fb2ed;
 }
 
 h1 {
   text-align: center;
-  font-family: 'Sigmar One', cursive;
-}
-
-h2 {
-  text-align: center;
-  font-family: "Dosis";
-}
-
-p {
-  /*font-family: "Pangolin", cursive;*/
-  font-family: "Patrick Hand", cursive;
-  font-size: 120%;
-}
-
-ul {
-  font-family: "Patrick Hand", cursive;
-  font-size: 100%;
+  font-family: "Merienda One", cursive;
+  background-color: #fc729e;
 }
 
 table{
-  font-family: "Patrick Hand", cursive;
+  font-size: 110%;
+  font-family: 'Sahitya', serif;
+  /*background-color: #e69319;*/
 }
 
-th{
-  font-size: 100%;
-}
-tr{
-  font-size: 100%
-}
