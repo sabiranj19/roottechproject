@@ -34,6 +34,10 @@ ul{
   font-size: 110%
 }
 
+img{
+  border: 5px solid black;
+}
+
 h3{
   padding-left: 35px;
 }
